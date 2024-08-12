@@ -1,4 +1,4 @@
-module github.com/zachery-stuart/streaming-json-go
+module github.com/zachery-stuart/streaming-json-go-cbi
 
 go 1.17
 
