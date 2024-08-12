@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	streamingjson "github.com/karminski/streaming-json-go"
+	streamingjson "github.com/zachery-stuart/streaming-json-go-cbi"
 )
 
 // In GPT's chat completion stream mode, the request for tool_calls returns a structure as follows:
