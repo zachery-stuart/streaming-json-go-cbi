@@ -1,4 +1,4 @@
-module github.com/karminski/streaming-json-go
+module github.com/zachery-stuart/streaming-json-go
 
 go 1.17
 
